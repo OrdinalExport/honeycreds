@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Ben Ten (Ben0xA)
+# Author: OrdinalExport
 # HoneyCreds - Detecting LLMNR/NBNS/HTTP Listeners
 # Updated: 10/29/2020
 # Version: 0.1
@@ -131,7 +131,7 @@ def banner():
 	print(termcolor.YELLOW + termcolor.BOLD + '   (`-=-=-=-=-=-=-`)' + termcolor.END)
 	print(termcolor.YELLOW + termcolor.BOLD + '     (`-=-=-=-=-`)' + termcolor.END)
 	print(termcolor.YELLOW + termcolor.BOLD + '      `-=-=-=-=-`' + termcolor.END)
-	print(termcolor.YELLOW + '                                   Author: ' + termcolor.WHITE + termcolor.BOLD + 'Ben Ten (@ben0xa)' + termcolor.END + termcolor.WHITE + ' - ' + termcolor.YELLOW + 'Version: ' + termcolor.WHITE + termcolor.BOLD + '0.1' + termcolor.END)
+	print(termcolor.YELLOW + '                                   Author: ' + termcolor.WHITE + termcolor.BOLD + 'OrdinalExport' + termcolor.END + termcolor.WHITE + ' - ' + termcolor.YELLOW + 'Version: ' + termcolor.WHITE + termcolor.BOLD + '0.1' + termcolor.END)
 	print('')
 	print(termcolor.GREEN + termcolor.BOLD + '[+]' + termcolor.END + ' Clients:')	
 	if str.upper(SMB) == 'OFF':
